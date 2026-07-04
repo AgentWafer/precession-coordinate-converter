@@ -9,9 +9,9 @@
 Используйте следующие команды для установки нужных библиотек:
 
 ```bash
-# Install standard dependencies and the installation utility
+# Основная часть библиотек:
 pip install -r requirements.txt
 
-# Run the installer tool to link GDAL to your Python environment
+# Установка подходящей конфигурации библиотеки GDAL:
 gdal-installer
 ```
