@@ -1,13 +1,12 @@
-## Installation
-
-### 1. Install System Dependencies (macOS / Linux Only)
-If you are on macOS or Linux, ensure you have the core GDAL binaries installed on your system before proceeding:
+## Установка
+### 1. Установить зависимости (только macOS / Linux)
+Если вы используете macOS или Linux, убедитесь, что в вашей системе установлены основные бинарные файлы GDAL:
 * **macOS (Homebrew)**: `brew install gdal`
 * **Linux (Ubuntu/Debian)**: `sudo apt-get install libgdal-dev`
-* **Windows**: Skip this step.
+* **Windows**: Пропустите этот шаг.
 
-### 2. Setup the Python Environment
-Clone the repository, navigate to the folder, and run the following commands to install dependencies:
+### 2. Настроить среду Python
+Используйте следующие команды для установки нужных библиотек:
 
 ```bash
 # Install standard dependencies and the installation utility
